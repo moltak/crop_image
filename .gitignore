@@ -1,3 +1,4 @@
 src
 *.sw*
 node_modules/
+dst
